@@ -1,0 +1,918 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"subs",
+				"substr()"
+			],
+			[
+				"subst",
+				"substr_count()"
+			],
+			[
+				"str_s",
+				"str_starts_with"
+			],
+			[
+				"sub",
+				"substr()"
+			],
+			[
+				"str_c",
+				"str_contains()"
+			],
+			[
+				"str_",
+				"str_contains()"
+			],
+			[
+				"incl",
+				"include"
+			],
+			[
+				"padS",
+				"padStrCnt"
+			],
+			[
+				"p",
+				"padStrCln"
+			],
+			[
+				"padStr",
+				"padStrCln"
+			],
+			[
+				"G",
+				"GLOBALS"
+			],
+			[
+				"for",
+				"foreach"
+			],
+			[
+				"ina",
+				"in_array()"
+			],
+			[
+				"iss",
+				"isset()"
+			],
+			[
+				"padRE",
+				"padReset"
+			],
+			[
+				"padBackupA",
+				"padBackupPad"
+			],
+			[
+				"padBa",
+				"padBackupPad"
+			],
+			[
+				"padRe",
+				"padResetApp"
+			],
+			[
+				"str_str",
+				"str_starts_with()"
+			],
+			[
+				"s",
+				"solitary"
+			],
+			[
+				"is",
+				"is_array"
+			],
+			[
+				"is_a",
+				"is_array()"
+			],
+			[
+				"in_ar",
+				"in_array()"
+			],
+			[
+				"padL",
+				"padLoopV"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"padF",
+				"padFunctionCount"
+			],
+			[
+				"impl",
+				"implode()"
+			],
+			[
+				"str_rep",
+				"str_replace()"
+			],
+			[
+				"str",
+				"str_contains"
+			],
+			[
+				"forea",
+				"foreach\tforeach …"
+			],
+			[
+				"fo",
+				"for\tfor …"
+			],
+			[
+				"pro",
+				"property"
+			],
+			[
+				"file_e",
+				"file_exists()"
+			],
+			[
+				"expl",
+				"explode()"
+			],
+			[
+				"fi",
+				"first"
+			],
+			[
+				"padX",
+				"padXapp"
+			],
+			[
+				"pad",
+				"padTrace"
+			],
+			[
+				"ar",
+				"array_unique"
+			],
+			[
+				"f",
+				"file_exists"
+			],
+			[
+				"arra",
+				"array\t$… = array (…)"
+			],
+			[
+				"defi",
+				"defined()"
+			],
+			[
+				"padE",
+				"padExit"
+			],
+			[
+				"T",
+				"TRUE"
+			],
+			[
+				"fu",
+				"function_exists()"
+			],
+			[
+				"is_i",
+				"is_int()"
+			],
+			[
+				"str_cont",
+				"str_contains()"
+			],
+			[
+				"in",
+				"include_once"
+			],
+			[
+				"pa",
+				"padApp"
+			],
+			[
+				"g",
+				"GLOBALS"
+			],
+			[
+				"str_re",
+				"str_replace()"
+			],
+			[
+				"str_con",
+				"str_contains()"
+			],
+			[
+				"_",
+				"$_REQUEST\tREQUEST['…']"
+			],
+			[
+				"padParm",
+				"padTagParm"
+			],
+			[
+				"strpo",
+				"strpos()"
+			],
+			[
+				"newFa",
+				"newFalse"
+			],
+			[
+				"tw",
+				"twoBefore"
+			],
+			[
+				"fa",
+				"false"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/herbert/pad/pad",
+		"/home/herbert/pad/pad/at",
+		"/home/herbert/pad/pad/at/any",
+		"/home/herbert/pad/pad/level",
+		"/home/herbert/data"
+	],
+	"file_history":
+	[
+		"/home/herbert/pad/pad/at/any/tag.php",
+		"/home/herbert/pad/pad/level/level.php",
+		"/home/herbert/pad/apps/pad/vars/at/1.pad",
+		"/home/herbert/pad/apps/pad/develop/ok.php",
+		"/home/herbert/pad/pad/_lib/file.php",
+		"/home/herbert/pad/pad/level/var.php",
+		"/home/herbert/pad/pad/_lib/field/field.php",
+		"/home/herbert/pad/apps/pad/vars/at/2.pad",
+		"/home/herbert/pad/apps/pad/vars/at/3.pad",
+		"/home/herbert/pad/apps/pad/vars/at/5.pad",
+		"/home/herbert/pad/apps/pad/vars/at/6.pad",
+		"/home/herbert/pad/apps/pad/vars/at/random.pad",
+		"/home/herbert/pad/pad/at/_lib/at.php",
+		"/home/herbert/pad/pad/at/_lib/check.php",
+		"/home/herbert/pad/pad/_lib/valid.php",
+		"/home/herbert/pad/pad/at/_lib/lib.php",
+		"/home/herbert/pad/pad/_lib/other.php",
+		"/home/herbert/pad/pad/at/_lib/value.php",
+		"/home/herbert/pad/pad/_lib/eval/after.php",
+		"/home/herbert/pad/pad/_lib/type.php",
+		"/home/herbert/pad/pad/var/at.php",
+		"/home/herbert/pad/pad/types/atArray.php",
+		"/home/herbert/pad/pad/var/var.php",
+		"/home/herbert/pad/pad/var/classic.php",
+		"/home/herbert/pad/pad/var/varvar.php",
+		"/home/herbert/pad/pad/types/field.php",
+		"/home/herbert/pad/pad/at/groups/function.php",
+		"/home/herbert/pad/pad/at/groups/parameters.php",
+		"/home/herbert/pad/pad/types/at.php",
+		"/home/herbert/pad/pad/config/config.php",
+		"/home/herbert/pad/apps/pad/options/optional.pad",
+		"/home/herbert/pad/pad/start/function.php",
+		"/home/herbert/pad/pad/level/go.php",
+		"/home/herbert/pad/pad/options/optional.php",
+		"/home/herbert/pad/pad/level/function.php",
+		"/home/herbert/pad/pad/level/base.php",
+		"/home/herbert/pad/apps/pad/start/page/index.pad",
+		"/home/herbert/pad/pad/level/setup.php",
+		"/home/herbert/pad/pad/_lib/field/level.php",
+		"/home/herbert/pad/pad/inits/vars.php",
+		"/home/herbert/ACE11.02018IBM App Connect Enterprise",
+		"/home/herbert/pad/pad/at/types/any.php",
+		"/home/herbert/pad/pad/tags/go/include.php",
+		"/home/herbert/pad/pad/eval/parms/pad.php",
+		"/home/herbert/pad/apps/pad/manual/the_data_tag.pad",
+		"/home/herbert/pad/apps/pad/_tags/example.pad",
+		"/home/herbert/pad/pad/types/go/local.php",
+		"/home/herbert/pad/apps/pad/test.pad",
+		"/home/herbert/pad/pad/start/pad.php",
+		"/home/herbert/pad/apps/pad/test.php",
+		"/home/herbert/pad/apps/pad/start/code/sandbox.pad",
+		"/home/herbert/pad/pad/start/end.php",
+		"/home/herbert/pad/pad/start/end/unsetApp.php",
+		"/home/herbert/pad/pad/start/end/pad.php",
+		"/home/herbert/pad/pad/start/end/unsetPad.php",
+		"/home/herbert/pad/pad/start/start/pad.php",
+		"/home/herbert/pad/pad/start/start/resetPad.php",
+		"/home/herbert/pad/pad/start/start/level.php",
+		"/home/herbert/pad/apps/pad/start/code/code.pad",
+		"/home/herbert/pad/pad/start/start.php",
+		"/home/herbert/pad/pad/start/end/dat.php",
+		"/home/herbert/pad/pad/start/start/dat.php",
+		"/home/herbert/pad/apps/pad/start/page/1/page1.pad",
+		"/home/herbert/pad/apps/pad/start/page/1/page2.pad",
+		"/home/herbert/pad/apps/pad/start/page/1/page3.pad",
+		"/home/herbert/pad/apps/pad/start/page/1/page4.pad",
+		"/home/herbert/pad/apps/pad/start/page/1/page5.pad",
+		"/home/herbert/pad/apps/pad/start/page/1/page6.pad",
+		"/home/herbert/pad/apps/pad/start/page/1/page7.pad",
+		"/home/herbert/pad/apps/pad/start/page/1/page8.pad",
+		"/home/herbert/pad/apps/pad/start/page/2/index.pad",
+		"/home/herbert/pad/apps/pad/start/page/2/page1.pad",
+		"/home/herbert/pad/apps/pad/start/page/2/page2.pad",
+		"/home/herbert/pad/apps/pad/start/page/2/page3.pad",
+		"/home/herbert/pad/apps/pad/start/page/2/page4.pad",
+		"/home/herbert/pad/apps/pad/start/page/2/page5.pad",
+		"/home/herbert/pad/apps/pad/start/page/2/page6.pad",
+		"/home/herbert/pad/apps/pad/start/page/2/page7.pad",
+		"/home/herbert/pad/apps/pad/start/page/2/page8.pad",
+		"/home/herbert/pad/apps/pad/start/page/3/index.pad",
+		"/home/herbert/pad/apps/pad/start/page/3/page1.pad",
+		"/home/herbert/pad/apps/pad/start/page/3/page2.pad",
+		"/home/herbert/pad/apps/pad/start/page/3/page3.pad",
+		"/home/herbert/pad/apps/pad/start/page/3/page4.pad",
+		"/home/herbert/pad/apps/pad/start/page/3/page5.pad",
+		"/home/herbert/pad/apps/pad/start/page/3/page6.pad",
+		"/home/herbert/pad/apps/pad/start/page/3/page7.pad",
+		"/home/herbert/pad/apps/pad/start/page/3/page8.pad",
+		"/home/herbert/pad/apps/pad/start/page/4/index.pad",
+		"/home/herbert/pad/apps/pad/start/page/4/page1.pad",
+		"/home/herbert/pad/apps/pad/start/page/4/page2.pad",
+		"/home/herbert/pad/apps/pad/start/page/4/page3.pad",
+		"/home/herbert/pad/apps/pad/start/page/4/page4.pad",
+		"/home/herbert/pad/apps/pad/start/page/4/page5.pad",
+		"/home/herbert/pad/apps/pad/start/page/4/page6.pad",
+		"/home/herbert/pad/apps/pad/start/page/4/page7.pad",
+		"/home/herbert/pad/apps/pad/start/page/4/page8.pad",
+		"/home/herbert/pad/apps/pad/start/page/5/index.pad",
+		"/home/herbert/pad/apps/pad/start/page/5/page1.pad",
+		"/home/herbert/pad/apps/pad/start/page/5/page2.pad",
+		"/home/herbert/pad/apps/pad/start/page/5/page3.pad",
+		"/home/herbert/pad/apps/pad/start/page/5/page4.pad",
+		"/home/herbert/pad/apps/pad/start/page/5/page5.pad",
+		"/home/herbert/pad/apps/pad/start/page/5/page6.pad",
+		"/home/herbert/pad/apps/pad/start/page/5/page7.pad",
+		"/home/herbert/pad/apps/pad/start/page/5/page8.pad",
+		"/home/herbert/pad/apps/pad/start/page/6/index.pad",
+		"/home/herbert/pad/apps/pad/start/page/6/page1.pad",
+		"/home/herbert/pad/apps/pad/start/page/6/page2.pad",
+		"/home/herbert/pad/apps/pad/start/page/6/page3.pad",
+		"/home/herbert/pad/apps/pad/start/page/6/page4.pad",
+		"/home/herbert/pad/apps/pad/start/page/6/page5.pad",
+		"/home/herbert/pad/apps/pad/start/page/6/page6.pad",
+		"/home/herbert/pad/apps/pad/start/page/6/page7.pad",
+		"/home/herbert/pad/apps/pad/start/page/6/page8.pad",
+		"/home/herbert/pad/apps/pad/start/page/7/index.pad",
+		"/home/herbert/pad/apps/pad/start/page/7/page1.pad",
+		"/home/herbert/pad/apps/pad/start/page/7/page2.pad",
+		"/home/herbert/pad/apps/pad/start/page/7/page3.pad",
+		"/home/herbert/pad/apps/pad/start/page/7/page4.pad",
+		"/home/herbert/pad/apps/pad/start/page/7/page5.pad",
+		"/home/herbert/pad/apps/pad/start/page/7/page6.pad",
+		"/home/herbert/pad/apps/pad/start/page/7/page7.pad",
+		"/home/herbert/pad/apps/pad/start/page/7/page8.pad",
+		"/home/herbert/pad/apps/pad/start/page/8/index.pad",
+		"/home/herbert/pad/apps/pad/start/page/8/page1.pad",
+		"/home/herbert/pad/apps/pad/start/page/8/page2.pad",
+		"/home/herbert/pad/apps/pad/start/page/8/page3.pad"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			"/home/herbert/pad/apps/pad/vars,<project filters>",
+			"",
+			"/home/herbert/pad/apps/pad/manual,<project filters>",
+			"/home/herbert/pad/apps/pad,<project filters>",
+			"",
+			"/home/herbert/pad/pad/start,<project filters>",
+			"/home/herbert/pad/pad/info,<project filters>",
+			"",
+			"/home/herbert/pad/apps/pad/start/page,<project filters>",
+			"/home/herbert/pad/apps/pad/start/page7,<project filters>",
+			"/home/herbert/pad/apps/pad/start/page4,<project filters>",
+			"/home/herbert/pad/apps/pad/start/page3,<project filters>",
+			"/home/herbert/pad/apps/pad/start/page4,<project filters>",
+			"/home/herbert/pad/apps/pad/start/page5,<project filters>",
+			"/home/herbert/pad/apps/pad/start/page6,<project filters>",
+			"/home/herbert/pad/apps/pad/start/page7,<project filters>",
+			"/home/herbert/pad/apps/pad/start/page8,<project filters>",
+			"",
+			"/home/herbert/pad/apps/pad/start/page5,<project filters>",
+			"/home/herbert/pad/apps/pad/start/page3,<project filters>",
+			"/home/herbert/pad/apps/pad/start/page4,<project filters>",
+			"/home/herbert/pad/apps/pad/start/page3,<project filters>",
+			"/home/herbert/pad/pad/start,<project filters>",
+			"",
+			"/home/herbert/pad/apps/pad/start/page2,<project filters>",
+			"",
+			"/home/herbert/pad/apps/pad/start/combi3,<project filters>",
+			"/home/herbert/pad/apps/pad/start/combi2,<project filters>",
+			"/home/herbert/pad/apps/pad/start/combi1,<project filters>",
+			"/home/herbert/pad/apps/pad/start/page4,<project filters>",
+			"/home/herbert/pad/apps/pad/start/page3,<project filters>",
+			"/home/herbert/pad/apps/pad/start/page2,<project filters>",
+			"/home/herbert/pad/apps/pad/start/page1,<project filters>",
+			"/home/herbert/pad/apps/pad/start/page,<project filters>",
+			"/home/herbert/pad/apps/pad/develop,<project filters>",
+			"",
+			"/home/herbert/pad/apps/pad,<project filters>",
+			"",
+			"/home/herbert/pad/apps/pad/start,<project filters>",
+			"",
+			"/home/herbert/pad/pad/start,<project filters>",
+			"/home/herbert/pad/apps/pad/start/page3,<project filters>",
+			"/home/herbert/pad/apps/pad/start/page2,<project filters>",
+			"/home/herbert/pad/apps/pad/start/page1,<project filters>",
+			"/home/herbert/pad/apps/pad/start/page,<project filters>",
+			"/home/herbert/pad/pad/start,<project filters>",
+			"/home/herbert/pad/apps/pad/start/page,<project filters>",
+			"",
+			"/home/herbert/pad/apps/pad,<project filters>",
+			"/home/herbert/pad/pad/start,<project filters>",
+			"",
+			"/home/herbert/pad/pad/start,<project filters>",
+			"",
+			"/home/herbert/pad/pad/start/_lib,<project filters>",
+			"",
+			"/home/herbert/pad/pad/start,<project filters>",
+			"",
+			"/home/herbert/pad/pad/start,<project filters>",
+			"",
+			"/home/herbert/pad/apps/pad,<project filters>",
+			"/home/herbert/pad/pad/start,<project filters>",
+			"",
+			"/home/herbert/pad/apps/pad,<project filters>",
+			"",
+			"/home/herbert/pad/pad/start,<project filters>",
+			"/home/herbert/pad/pad/at,<project filters>",
+			"",
+			"/home/herbert/pad/pad,<project filters>",
+			"",
+			"/home/herbert/pad/apps/pad,<project filters>",
+			"",
+			"/home/herbert/pad/pad/inits,<project filters>",
+			"",
+			"/home/herbert/pad/pad/at/types,<project filters>",
+			"",
+			"/home/herbert/pad/apps/pad,<project filters>",
+			"/home/herbert/pad/pad/at,<project filters>",
+			"/home/herbert/pad/pad/at/properties,<project filters>",
+			"",
+			"/home/herbert/pad/pad/at,<project filters>",
+			"",
+			"/home/herbert/pad/pad/at,<project filters>",
+			"/home/herbert/pad/pad/at/properties,<project filters>",
+			"",
+			"padAtCheck",
+			"",
+			"/home/herbert/pad/pad/at/types,<project filters>",
+			"",
+			"/home/herbert/pad/pad/at/types,<project filters>",
+			"",
+			"/home/herbert/pad/pad/at,<project filters>",
+			"/home/herbert/pad/pad/lib/field/at,<project filters>",
+			"/home/herbert/pad/pad/at,<project filters>",
+			"/home/herbert/pad/pad/lib/field/at,<project filters>",
+			"",
+			"/home/herbert/pad/pad/at,<project filters>",
+			"/home/herbert/pad/pad/lib/field/at,<project filters>",
+			"",
+			"/home/herbert/pad/pad/lib/field/at,<project filters>",
+			"",
+			"/home/herbert/pad/pad/sequence,<project filters>",
+			"",
+			"/home/herbert/pad/pad/at/types,<project filters>",
+			"/home/herbert/pad/pad/tag,<project filters>",
+			"/home/herbert/pad/pad/at/types,<project filters>",
+			"",
+			"/home/herbert/pad/apps/pad/vars/at,<project filters>",
+			"/home/herbert/pad/pad,<project filters>",
+			"",
+			"/home/herbert/pad/apps/pad,<project filters>",
+			"/home/herbert/pad/pad,<project filters>",
+			"",
+			"/home/herbert/pad/pad,<project filters>",
+			"",
+			"/home/herbert/pad/apps/pad/xref,<project filters>",
+			"/home/herbert/pad/apps/pad/xapp,<project filters>",
+			"",
+			"/home/herbert/pad/pad/info/types/xref/items,<project filters>",
+			"",
+			"/home/herbert/pad/pad/sequence,<project filters>",
+			"",
+			"/home/herbert/pad/apps/pad/xweb,<project filters>",
+			"",
+			"/home/herbert/pad/pad,<project filters>",
+			"/home/herbert/pad/apps/pad,<project filters>",
+			"",
+			"/home/herbert/pad/pad/info/events,<project filters>",
+			"/home/herbert/pad/pad,<project filters>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"{@",
+			"padAtValue2",
+			"padAtCheckName",
+			"level/type.php",
+			"level/go.php",
+			"types/",
+			"padFunVars",
+			"padLvlFun",
+			"padStrFunVar",
+			"padLvlFunVar",
+			"padStrFunVar",
+			"tags/go/include.php",
+			":content",
+			"{page",
+			"ajax",
+			"{page",
+			"padCode",
+			"inFunction",
+			"escape",
+			"/tag/",
+			"/tags/",
+			"$padStrPad",
+			"'start/page",
+			"clean",
+			"sandbox",
+			"page2/",
+			"page3/",
+			"page4/",
+			"page5/",
+			"padStrBox",
+			"page4/",
+			", sandbox}",
+			"page3/",
+			"page2/",
+			"sandbox function",
+			"sandbox}",
+			"start/level",
+			"/actions",
+			"padLvlId",
+			"/end/",
+			"/actions/",
+			"endUnsetPad",
+			"padStrResDat",
+			"padStrBoxDat",
+			"padStrResDat",
+			"padStrPad",
+			"padStrApp",
+			"Cln",
+			"padStrHit",
+			"padStrDat",
+			"padStrSto",
+			"ResPad",
+			"Box",
+			"Res",
+			"Cln",
+			"Res",
+			"Cln",
+			"Res",
+			"padStrFunCnt",
+			"padStrFunVar",
+			"padStrFunCnt",
+			"$padStrFun",
+			"padStrBox",
+			"padStrKey",
+			"padLevelVars",
+			"padStores",
+			"reset",
+			"sandbox",
+			"clean",
+			"padStrSav",
+			"padStrPad",
+			"start/page",
+			"clean",
+			"/page2/",
+			"clean",
+			"/page2/",
+			"/page/",
+			"/page2/",
+			" reset}",
+			"reset",
+			"sandbox",
+			"_regression",
+			"padStrSav",
+			"{page ",
+			"padstrcnt",
+			"$field",
+			"$v",
+			"$k",
+			"padStrSav",
+			"padStrPag",
+			"start/parms.php",
+			"start/pad.php",
+			"padStRfuncnt",
+			"padInFunction",
+			"padStRfunvar",
+			"padInFunctionVars",
+			"isolate",
+			"padStrBoxApp",
+			"padStrBoxPad",
+			"$i",
+			"padStrBoxPad",
+			"padStrApp",
+			"padStrDat",
+			"padStrClnPad",
+			"padTagHits",
+			"padOptionHits",
+			"padStrSave",
+			"Iso",
+			"isolate",
+			"Iso",
+			"{$hi}",
+			"{code sandbox}",
+			"/page/",
+			"{code sandbox}",
+			"{code sandbox}\n{code sandbox}\n{code sandbox}\n{code sandbox}\n{code sandbox}",
+			"{code}",
+			"</blockquote>",
+			"<blockquote>",
+			"<blockquote>\\n",
+			"<blockquote>\\n\\n",
+			"<h3><font color=\"{$color}\">Hello World !</font></h3>",
+			"{code",
+			"{code ,",
+			"xxxxxx",
+			"sandbox",
+			"isolate",
+			"padStrV",
+			"padStrK"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"{$",
+			"padAtValue",
+			"padAtCheck",
+			"{ajax",
+			"$padStrZZZ",
+			"'start/page/",
+			"reset",
+			"clean",
+			"reset",
+			"page3/",
+			"page4/",
+			"page5/",
+			"page6/",
+			"page7/",
+			"page8/",
+			"page5/",
+			", clean}",
+			"}",
+			"page4/",
+			"page3/",
+			"sandbox, function",
+			"sandbox function}",
+			"/",
+			"/start/",
+			"/",
+			"padStrDat",
+			"Hit",
+			"BoxDat",
+			"Cln",
+			"Box",
+			"field",
+			"sandbox",
+			"reset",
+			"sandbox",
+			"padStrPad",
+			"start/combi",
+			"sandbox",
+			"/page4/",
+			"reset",
+			"/page3/",
+			"/page2/",
+			"/page1/",
+			"/page/",
+			"}",
+			"clean",
+			"reset",
+			"padStrCnt",
+			"$padStrKey",
+			"$padStrVal",
+			"$padStrKey",
+			"padStrKey",
+			"padStrPag",
+			"padStrFunCnt",
+			"padStrFunVar",
+			"sandbox",
+			"padStrResApp",
+			"padStrResPad",
+			"$padStrCnt",
+			"padStrResPad",
+			"padStrBoxApp",
+			"padStrBoxPad",
+			"padStrSav",
+			"Res",
+			"reset",
+			"Res",
+			"Hello world !",
+			"{code}",
+			"/page3/",
+			"/page2/",
+			"/page1/",
+			"{code}",
+			"{code sandbox}",
+			"",
+			"{$abc}",
+			"{increment $abc}\\n\\n{code ",
+			"{code ",
+			"",
+			"xxxxxx",
+			"sandbox",
+			"padStrVal",
+			"padStrKey",
+			"padStrDat",
+			"padStrFun",
+			"padStrIso",
+			"padStrBox",
+			"padStrCod",
+			"padStrBld ",
+			"padStr",
+			"Start",
+			"padStart",
+			"padStartBuild",
+			"padStartCode",
+			"$padStartFunction",
+			"padStartIsolate",
+			"$padStartSandbox",
+			"$padStart",
+			"Hello World !",
+			"isolate",
+			"solitary",
+			"{/code}",
+			"{code sandbox} ",
+			"{code sandbox}",
+			"{code sandbox",
+			"start/",
+			"{/page",
+			"{page",
+			"padSandbox",
+			"padIsolate",
+			"$padFunction",
+			"$padSandbox",
+			"padIsolate",
+			"sandbox",
+			"isolate",
+			"sandbox",
+			"start/_lib/pad.php",
+			"code",
+			"return include pad . '",
+			"start/",
+			"$padSol",
+			"start/code/_lib/",
+			"start/_lib/backupApp.php",
+			"start/_lib/babupApp.php",
+			"start/_lib/resetApp.php",
+			"start/_lib/restoreApp.php",
+			"start/_lib/restore.php",
+			"{set $abc=1}",
+			"{$abc} {/sandbox}",
+			"{$abc} {/solitary}"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 132.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "linux.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 279.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 217.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,7 @@
+before
+
+@start@
+  repeat
+@end@
+
+after
